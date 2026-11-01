@@ -14,3 +14,5 @@ This studio is for planning and writing email campaigns for a small business.
 - Write in plain English. Keep sentences short and avoid jargon.
 - Never send email to real people. Write drafts only, and let me send them myself.
 - Ask me before deleting anything.
+
+@brand/voice.md
