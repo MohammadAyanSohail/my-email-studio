@@ -1,0 +1,25 @@
+first_name,last_name,email,group,joined_on,consent
+Ayesha,Khan,ayesha.khan@example.com,knife-curious,2026-09-14,waitlist form
+Daniel,Morris,daniel.morris@example.com,knife-curious,2026-09-15,waitlist form
+Bilal,Qureshi,bilal.qureshi@example.com,knife-curious,2026-09-17,waitlist form
+Hannah,Lindqvist,hannah.lindqvist@example.com,knife-curious,2026-09-19,waitlist form
+Marco,Rossi,marco.rossi@example.com,knife-curious,2026-09-23,waitlist form
+Sana,Iqbal,sana.iqbal@example.com,knife-curious,2026-09-28,waitlist form
+Owen,Price,owen.price@example.com,knife-curious,2026-10-03,waitlist form
+Lena,Fischer,lena.fischer@example.com,knife-curious,2026-10-09,waitlist form
+Tom,Becker,tom.becker@example.com,gift-buyers,2026-09-22,waitlist form
+Fatima,Malik,fatima.malik@example.com,gift-buyers,2026-09-16,waitlist form
+Grace,Walker,grace.walker@example.com,gift-buyers,2026-09-20,waitlist form
+Imran,Siddiqui,imran.siddiqui@example.com,gift-buyers,2026-09-25,waitlist form
+Chloe,Dubois,chloe.dubois@example.com,gift-buyers,2026-09-30,waitlist form
+Ravi,Patel,ravi.patel@example.com,gift-buyers,2026-10-05,waitlist form
+Emma,Novak,emma.novak@example.com,gift-buyers,2026-10-12,waitlist form
+Yusuf,Demir,yusuf.demir@example.com,gift-buyers,2026-10-18,waitlist form
+Hamza,Raza,hamza.raza@example.com,daily-hikers,2026-09-14,waitlist form
+Sarah,Thompson,sarah.thompson@example.com,daily-hikers,2026-09-18,waitlist form
+Jonas,Berg,jonas.berg@example.com,daily-hikers,2026-09-21,waitlist form
+Zainab,Chaudhry,zainab.chaudhry@example.com,daily-hikers,2026-09-26,waitlist form
+Liam,Gallagher,liam.gallagher@example.com,daily-hikers,2026-10-01,waitlist form
+Nadia,Hussain,nadia.hussain@example.com,daily-hikers,2026-10-07,waitlist form
+Ethan,Reid,ethan.reid@example.com,daily-hikers,2026-10-14,waitlist form
+Mei,Tanaka,mei.tanaka@example.com,daily-hikers,2026-10-21,waitlist form
