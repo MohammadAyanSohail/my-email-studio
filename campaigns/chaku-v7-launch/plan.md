@@ -1,6 +1,6 @@
 # Campaign Plan: The Chaku V7 Waitlist Launch
 
-**Status:** Draft plan. No emails have been written or sent.
+**Status:** Draft plan. Emails 1, 3, 4 and 7 are drafted in the `emails` folder (file numbers match this plan). Nothing has been sent.
 **Dates:** Monday 7 December 2026 to Sunday 3 January 2027
 **Goal:** 300 waitlist members buy the Chaku V7 by 3 January 2027
 **Channel:** Email only. No paid ads.

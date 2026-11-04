@@ -1,5 +1,5 @@
-Subject: The Chaku V7 is ready, and you're first
-Preview: You joined the waitlist, so you hear first. Here is what the V7 is.
+Subject: The Chaku V7 is ready
+Preview: You joined the waitlist, so we are telling you now. Here is what the V7 is.
 
 {{first_name}},
 
@@ -9,7 +9,7 @@ The V7 is a utility knife for camp and trail. It is made in Faisalabad, Pakistan
 
 It is built for cutting work. Feather sticks, cord, food, gear repairs. It is not built for prying, hammering or twisting. We would rather tell you that now than have you learn it out there.
 
-You are on the waitlist, so you get this before anyone else. The V7 page has the details, the price and the shipping facts.
+You are on the waitlist, so we are writing to you now. The V7 page has the details.
 
 [See the Chaku V7](https://chakuknives.example.com/chaku-v7)
 
