@@ -1,0 +1,38 @@
+Subject: Your V7 questions, answered
+Preview: Care, shipping, regulations and what the V7 is for. Plain answers.
+
+{{first_name}},
+
+New to good knives? Some questions come up again and again. Here are plain answers.
+
+**What is the V7 for?**
+Cutting work at camp, like slicing food or cutting cord. It is a utility knife, nothing more.
+
+**What is the blade made of?**
+CPM MagnaCut steel. It holds an edge and is rust and corrosion resistant.
+
+**Does it need care?**
+Yes. Dry it, clean it and sharpen it when it needs it. No blade stays sharp forever.
+
+**Can I pry or hammer with it?**
+No. Hard steel can snap under that kind of use. Keep it for cutting.
+
+**Can you ship to me?**
+We ship to Pakistan, the UAE, Saudi Arabia and China. We cannot promise that shipping is simple or legal everywhere. The package is declared as a weapon when it ships. Rules differ by country and sometimes by region. See the note below.
+
+**Is it a good gift?**
+It can be, for someone who camps or hikes. The rules where they live come first.
+
+**Something else?**
+Reply to this email. Our support team will read it, and your question may help the next reader.
+
+The full details are on the V7 page.
+
+[Go to the Chaku V7 page](https://chakuknives.example.com/chaku-v7)
+
+Please check your local regulations before ordering. If it is a gift, check the rules where the person lives.
+
+the Chaku Smiths
+
+You're getting this because you joined the Chaku Knives waitlist.
+Chaku Knives, {{company_address}} · Unsubscribe: {{unsubscribe_url}}
