@@ -3,7 +3,7 @@ Preview: A last word before you decide. No pressure, just the facts.
 
 {{first_name}},
 
-If you have not ordered yet, that is fine. A knife you will carry for years is worth a slow decision.
+You looked at the V7 but have not ordered. That is fine. A knife you will carry for years is worth a slow decision.
 
 Here is what we would check if we were in your boots, brother:
 
@@ -11,7 +11,7 @@ Here is what we would check if we were in your boots, brother:
 - Are you happy to give it a few minutes of care now and then? MagnaCut holds an edge, but it is not care-free.
 - Can it be sent to you under the rules where you live? See the note below.
 
-If those are all a yes, the V7 page has the details you need. If you still have a question, just reply. We will read it.
+If those are all a yes, the V7 page has the details you need. If you still have a question, just reply. Our support team will read it.
 
 [Back to the Chaku V7 page](https://chakuknives.example.com/chaku-v7)
 

@@ -11,11 +11,11 @@ The studio files have no details on the V7 itself. This plan does not guess at t
 
 | # | Question | Why it matters | Needed by |
 |---|----------|----------------|-----------|
-| 1 | What are the V7's specs, price and stock level? | We can only name MagnaCut until then. Stock also tells us if 300 sales is even possible. | 6 Nov |
+| 1 | What are the V7's specs, price and stock level? | We can only name MagnaCut until then. Stock also tells us if 300 sales is even possible. **Still open: price is not known and the V7 page is a placeholder with no real facts.** | 6 Nov |
 | 2 | How many people are in each waitlist group? | Group targets below assume about 667 in each. | 6 Nov |
-| 3 | Which countries are the 2,000 people in, and where can we ship? | The package is declared as a weapon. People we can't ship to can't count toward the 300. | 13 Nov |
+| 3 | Which countries are the 2,000 people in, and where can we ship? | The package is declared as a weapon. People we can't ship to can't count toward the 300. **Answered: we ship to Pakistan, the UAE, Saudi Arabia and China. Still to do: filter the list by country.** | 13 Nov |
 | 4 | How long does shipping take in December, by country? | Gift buyers need a true "order by" date for Christmas. We won't promise one without facts. | 13 Nov |
-| 5 | Will waitlist members get a real offer or deadline? For example, early access, a launch price or a limited first batch. | A last-call email needs a true reason. We will not invent one. | 13 Nov |
+| 5 | Will waitlist members get a real offer or deadline? For example, early access, a launch price or a limited first batch. | A last-call email needs a true reason. We will not invent one. **Answered: no. There is no first-access offer, launch price or deadline.** | 13 Nov |
 | 6 | Is there a gift option, such as a gift note or gift box? | Shapes the gift buyer emails. | 13 Nov |
 | 7 | Do we have real test results or quotes from campers and hikers? | We can only say "tested by real campers and hikers" if we can prove it. | 20 Nov |
 
@@ -72,7 +72,7 @@ The group details below are working assumptions. Check them against what you kno
 | MagnaCut is rust and corrosion resistant. | Steel named in the brand guide | Yes. Always say "resistant". |
 | Built for cutting work at camp and on the trail, not for abuse. | Clear guidance on intended use | Yes. Add a care guide. |
 | Tested by real campers and hikers. | Named quotes or test notes | Not yet. Cut this if we can't prove it. |
-| Waitlist members get first access. | The real waitlist offer | Not yet. See question 5. |
+| Waitlist members get first access. | The real waitlist offer | No. There is no offer. Do not use this message. |
 
 **Message order in each email:** why this matters out there, what the V7 is, why Chaku, then one clear next step.
 
@@ -120,7 +120,7 @@ Gift emails come early. Shipping from Pakistan takes time, so a mid-December gif
 
 | Week | Send date | Email | Who gets it | Purpose | Status |
 |------|-----------|-------|-------------|---------|--------|
-| 1 | Mon 7 Dec | 1. The V7 is here | All | Open the doors and give waitlist members first access | Not started |
+| 1 | Mon 7 Dec | 1. The V7 is here | All | Open the doors and tell waitlist members the V7 is ready | Not started |
 | 1 | Thu 10 Dec | 2. Why the V7 suits you | Three versions by group | Speak to each group's need. The gift version gives the order-by date. | Not started |
 | 2 | Tue 15 Dec | 3. MagnaCut, honestly | All who haven't bought | Explain what the steel does and the care it needs | Not started |
 | 2 | Thu 17 Dec | 4. Your questions, answered | All who haven't bought, gift version for gift buyers | Cover price, regulations, shipping and care | Not started |
@@ -128,7 +128,7 @@ Gift emails come early. Shipping from Pakistan takes time, so a mid-December gif
 | 3 | 22 to 27 Dec | No sends | | Rest the list over Christmas | Not started |
 | 4 | Mon 28 Dec | 6. From the trail | All who haven't bought | Share real camper stories, or a camp task the V7 is built for | Not started |
 | 4 | Wed 30 Dec | 7. A final check before you decide | People who clicked but didn't buy | Answer the last doubts | Not started |
-| 4 | Sun 3 Jan | 8. Last call | All who haven't bought | Send only if question 5 gives us a real deadline | Not started |
+| 4 | Sun 3 Jan | 8. Last call | All who haven't bought | Do not send. Question 5 gave no real deadline | Cancelled |
 
 Every buyer also gets an order email with a thank-you, what happens next, shipping notes and how to care for the blade.
 
@@ -139,7 +139,8 @@ Every buyer also gets an order email with a thank-you, what happens next, shippi
 - Remove buyers from each send, so nobody gets asked after they've ordered.
 - The gift version of email 2, and email 5, depend on question 4.
 - Email 6 uses real stories only if we have them.
-- Email 8 depends on question 5.
+- Email 8 is cancelled, because there is no real deadline.
+- The V7 page is a placeholder. It needs real specs, price and shipping facts before email 1.
 
 ## 6. Content pieces needed
 
@@ -154,7 +155,7 @@ Every buyer also gets an order email with a thank-you, what happens next, shippi
 | Order email | Thank-you, next steps, shipping notes, blade care | Must have | 27 Nov |
 | Blade care guide | Short guide to sharpening and upkeep, plus what not to do, such as prying, hammering or twisting | Must have | 27 Nov |
 | Email 5 | Gift timing | Must have if we have shipping facts | 27 Nov |
-| Email 8 | Last call | Only if there's a real deadline | 27 Nov |
+| Email 8 | Last call | Cancelled. No real deadline | n/a |
 | Camper quotes | Real names, real words, with permission | Nice to have | 20 Nov |
 | Two subject line tests | Compare options on emails 1 and 3 | Nice to have | 27 Nov |
 
@@ -217,7 +218,7 @@ Most of the real cost is your time: about five weeks of preparation, then a litt
 
 1. Answer questions 1 and 2 by Friday 6 November.
 2. Export the waitlist and confirm the size of each group.
-3. Decide whether there's a real offer or deadline for waitlist members.
+3. Fill the V7 page with real specs, price and shipping facts. There is no offer or deadline.
 4. Confirm the sending tool and start the setup.
 5. Once the facts are in, ask for the email series to be drafted with the `email-sequence` skill.
 

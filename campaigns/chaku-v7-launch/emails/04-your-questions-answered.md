@@ -18,13 +18,13 @@ Yes. Dry it, clean it and sharpen it when it needs it. No blade stays sharp fore
 No. Hard steel can snap under that kind of use. Keep it for cutting.
 
 **Can you ship to me?**
-We cannot promise that shipping is simple or legal everywhere. The package is declared as a weapon when it ships. Rules differ by country and sometimes by region. See the note below.
+We ship to Pakistan, the UAE, Saudi Arabia and China. We cannot promise that shipping is simple or legal everywhere. The package is declared as a weapon when it ships. Rules differ by country and sometimes by region. See the note below.
 
 **Is it a good gift?**
 It can be, for someone who camps or hikes. The rules where they live come first.
 
 **Something else?**
-Reply to this email. We will read it, and your question may help the next reader.
+Reply to this email. Our support team will read it, and your question may help the next reader.
 
 The full details are on the V7 page.
 
