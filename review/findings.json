@@ -1,0 +1,18 @@
+{
+  "findings": [
+    {
+      "file": "campaigns/chaku-v7-launch/groups/gift-buyers/emails/07-a-final-check.md",
+      "line": 8,
+      "severity": "medium",
+      "problem": "The checklist talks to a gift buyer as if they will carry and care for the knife. 'If we were in your boots, brother' does not fit someone buying for another person. The second bullet ('Are you happy to give it a few minutes of care') asks the giver to do the upkeep. This is the only group file where the shared 07 wording clearly does not fit the reader.",
+      "fix": "Change line 8 to 'Here is what we would check if we were choosing for a friend, brother:' (keep 'brother' once). Change the second bullet to 'Will they be happy to give it a few minutes of care now and then?'"
+    },
+    {
+      "file": "campaigns/chaku-v7-launch/emails/04-your-questions-answered.md",
+      "line": 27,
+      "severity": "low",
+      "problem": "'Our support team will read it' (also in all three group 04 files and in the 07 files at line 13) claims a support team. Nothing in brand/, leads/ or the plan says one exists. The voice guide says 'Never claim anything we cannot prove.' Chaku is a small business.",
+      "fix": "Unless a support team is real, say 'We will read it.' Apply it in all four 04 files and all four 07 files."
+    }
+  ]
+}
