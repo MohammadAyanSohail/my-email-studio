@@ -13,8 +13,6 @@ You are on the waitlist, so we are writing to you now. The V7 page has the detai
 
 [See the Chaku V7](https://chakuknives.example.com/chaku-v7)
 
-Please check your local regulations before ordering. If it is a gift, check the rules where the person lives.
-
 the Chaku Smiths
 
 You're getting this because you joined the Chaku Knives waitlist.

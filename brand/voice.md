@@ -36,7 +36,6 @@ Our readers are serious campers and hikers. Keep the tone professional, not casu
 - **Never say the blade never dulls.** Every knife needs care. Say it holds an edge, and that it needs regular maintenance.
 - **Never say the steel is rust-proof or corrosion-proof.** MagnaCut is rust and corrosion resistant. The difference matters, so use "resistant".
 - **Never say the blade can't break.** Very hard steel or abusive use, such as prying, hammering or twisting, can snap a blade. Say it is built for cutting, not abuse.
-- **Never promise that shipping is simple or legal everywhere.** The package is declared as a weapon. Always tell buyers to check their local regulations before ordering.
 - Never claim anything we cannot prove.
 
 ## How we sign off

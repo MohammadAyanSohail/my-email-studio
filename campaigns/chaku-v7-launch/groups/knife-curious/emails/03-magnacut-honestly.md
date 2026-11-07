@@ -15,8 +15,6 @@ That is the short version. If it sounds like the kind of knife you want in your 
 
 [Read about the Chaku V7](https://chakuknives.example.com/chaku-v7)
 
-Please check your local regulations before ordering. If it is a gift, check the rules where the person lives.
-
 the Chaku Smiths
 
 You're getting this because you joined the Chaku Knives waitlist.

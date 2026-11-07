@@ -1,5 +1,5 @@
 Subject: Your V7 questions, answered
-Preview: Care, shipping, regulations and what the V7 is for. Plain answers.
+Preview: Care, shipping and what the V7 is for. Plain answers.
 
 {{first_name}},
 
@@ -18,10 +18,10 @@ Yes. Dry it, clean it and sharpen it when it needs it. No blade stays sharp fore
 No. Hard steel can snap under that kind of use. Keep it for cutting.
 
 **Can you ship to me?**
-We ship to Pakistan, the UAE, Saudi Arabia and China. We cannot promise that shipping is simple or legal everywhere. The package is declared as a weapon when it ships. Rules differ by country and sometimes by region. See the note below.
+We ship to Pakistan, the UAE, Saudi Arabia and China.
 
 **Is it a good gift?**
-It can be, for someone who camps or hikes. The rules where they live come first.
+It can be, for someone who camps or hikes.
 
 **Something else?**
 Reply to this email. Our support team will read it, and your question may help the next reader.
@@ -29,8 +29,6 @@ Reply to this email. Our support team will read it, and your question may help t
 The full details are on the V7 page.
 
 [Go to the Chaku V7 page](https://chakuknives.example.com/chaku-v7)
-
-Please check your local regulations before ordering. If it is a gift, check the rules where the person lives.
 
 the Chaku Smiths
 

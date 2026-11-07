@@ -13,7 +13,7 @@ The studio files have no details on the V7 itself. This plan does not guess at t
 |---|----------|----------------|-----------|
 | 1 | What are the V7's specs, price and stock level? | We can only name MagnaCut until then. Stock also tells us if 300 sales is even possible. **Still open: price is not known and the V7 page is a placeholder with no real facts.** | 6 Nov |
 | 2 | How many people are in each waitlist group? | Group targets below assume about 667 in each. | 6 Nov |
-| 3 | Which countries are the 2,000 people in, and where can we ship? | The package is declared as a weapon. People we can't ship to can't count toward the 300. **Answered: we ship to Pakistan, the UAE, Saudi Arabia and China. Still to do: filter the list by country.** | 13 Nov |
+| 3 | Which countries are the 2,000 people in, and where can we ship? | People we can't ship to can't count toward the 300. **Answered: we ship to Pakistan, the UAE, Saudi Arabia and China. Still to do: filter the list by country.** | 13 Nov |
 | 4 | How long does shipping take in December, by country? | Gift buyers need a true "order by" date for Christmas. We won't promise one without facts. | 13 Nov |
 | 5 | Will waitlist members get a real offer or deadline? For example, early access, a launch price or a limited first batch. | A last-call email needs a true reason. We will not invent one. **Answered: no. There is no first-access offer, launch price or deadline.** | 13 Nov |
 | 6 | Is there a gift option, such as a gift note or gift box? | Shapes the gift buyer emails. | 13 Nov |
@@ -89,8 +89,6 @@ The group details below are working assumptions. Check them against what you kno
 - Sign off with: the Chaku Smiths
 - Keep the V7 a utility knife. No self-defense, protection, fighting, combat, tactical or weapon-style language.
 - Never say a blade never dulls, can't break, or is rust-proof.
-- Include a line in every email with a buy link: check your local regulations before ordering. For gifts, that means the rules where the recipient lives.
-- Don't promise that shipping is simple or legal everywhere.
 - No hype, all capitals or strings of exclamation marks.
 
 ## 4. Channel strategy
@@ -98,7 +96,7 @@ The group details below are working assumptions. Check them against what you kno
 | Channel | Why it fits | Format | Effort | Budget |
 |---------|-------------|--------|--------|--------|
 | Email (main) | These people asked to hear from us, and it suits a small budget. | Short, mostly text emails with one photo and one link | Medium | Most of it |
-| V7 product page (support) | Emails need one clear place to send people. It's our own page, not an ad. | One page with V7 details, price, shipping facts, FAQ, care notes and the regulations line | Medium | Low |
+| V7 product page (support) | Emails need one clear place to send people. It's our own page, not an ad. | One page with V7 details, price, shipping facts, FAQ and care notes | Medium | Low |
 
 No paid ads, as you asked. Your notes name Resend as the sending tool, but it isn't set up yet. It needs an API key, which must stay out of these files. Test on your own address first. You send every email yourself.
 
@@ -123,7 +121,7 @@ Gift emails come early. Shipping from Pakistan takes time, so a mid-December gif
 | 1 | Mon 7 Dec | 1. The V7 is here | All | Open the doors and tell waitlist members the V7 is ready | Not started |
 | 1 | Thu 10 Dec | 2. Why the V7 suits you | Three versions by group | Speak to each group's need. The gift version gives the order-by date. | Not started |
 | 2 | Tue 15 Dec | 3. MagnaCut, honestly | All who haven't bought | Explain what the steel does and the care it needs | Not started |
-| 2 | Thu 17 Dec | 4. Your questions, answered | All who haven't bought, gift version for gift buyers | Cover price, regulations, shipping and care | Not started |
+| 2 | Thu 17 Dec | 4. Your questions, answered | All who haven't bought, gift version for gift buyers | Cover price, shipping and care | Not started |
 | 3 | Mon 21 Dec | 5. Gift timing, plainly | Gift buyers who haven't bought | State whether it can still arrive by Christmas. If not, say so and suggest a New Year gift. | Not started |
 | 3 | 22 to 27 Dec | No sends | | Rest the list over Christmas | Not started |
 | 4 | Mon 28 Dec | 6. From the trail | All who haven't bought | Share real camper stories, or a camp task the V7 is built for | Not started |
@@ -146,8 +144,7 @@ Every buyer also gets an order email with a thank-you, what happens next, shippi
 
 | Piece | What it holds | Priority | Ready by |
 |-------|---------------|----------|----------|
-| V7 product page | Specs, price, shipping facts, FAQ, regulations line | Must have | 20 Nov |
-| Standard regulations line | One approved line used in every email and on the page | Must have | 20 Nov |
+| V7 product page | Specs, price, shipping facts, FAQ | Must have | 20 Nov |
 | V7 photos | Knife at camp and on the trail, working | Must have | 20 Nov |
 | Emails 1, 3, 4 | Launch, steel and FAQ emails | Must have | 27 Nov |
 | Email 2, three versions | One for each group | Must have | 27 Nov |
@@ -207,7 +204,6 @@ Most of the real cost is your time: about five weeks of preparation, then a litt
 |------|--------------------|
 | 15% is too high for this list. | Check at the end of week 1. If we're under 90 orders, focus on clickers, fix the page, and tell you early that the target may fall short. |
 | Not enough stock for 300 orders. | Confirm stock in question 1. If it's short, lower the target or plan a second batch before launch. |
-| Some buyers can't legally receive the knife. | Filter by country if we can. Include the regulations line every time. Promise nothing about delivery. |
 | Gift orders miss Christmas. | Send gift emails early. State only confirmed timing. If it can't arrive, say so plainly. |
 | An email reads like a self-defense pitch. | Check every draft against the brand guide. Show the V7 only as a camp and trail tool. |
 | The campaign runs through Christmas and New Year. | No sends from 22 to 27 December. Keep December sends early in the week. |
@@ -222,4 +218,4 @@ Most of the real cost is your time: about five weeks of preparation, then a litt
 4. Confirm the sending tool and start the setup.
 5. Once the facts are in, ask for the email series to be drafted with the `email-sequence` skill.
 
-**Approvals needed from you:** the price and offer, every email draft, the regulations line, and any claim about testing. You send all the emails yourself.
+**Approvals needed from you:** the price and offer, every email draft, and any claim about testing. You send all the emails yourself.

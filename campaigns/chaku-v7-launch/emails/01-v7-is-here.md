@@ -1,4 +1,4 @@
-Subject: The Chaku V7 is ready
+Subject: Meet the Chaku V7, a new MagnaCut knife
 Preview: You joined the waitlist, so we are telling you now. Here is what the V7 is.
 
 {{first_name}},
@@ -12,8 +12,6 @@ It is built for cutting work. Feather sticks, cord, food, gear repairs. It is no
 You are on the waitlist, so we are writing to you now. The V7 page has the details.
 
 [See the Chaku V7](https://chakuknives.example.com/chaku-v7)
-
-Please check your local regulations before ordering. If it is a gift, check the rules where the person lives.
 
 the Chaku Smiths
 

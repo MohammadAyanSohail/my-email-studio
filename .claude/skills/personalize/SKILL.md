@@ -62,7 +62,6 @@ Everything else is copied unchanged.
 - Follow `brand/voice.md` in full. Plain English, short sentences, calm and slightly rugged, professional and not casual.
 - Never write anything about self-defense, protection, fighting, combat or tactical use. Never let a knife read like a weapon.
 - Never say the blade never dulls, is rust-proof or corrosion-proof, or can't break. Keep the "resistant", "holds an edge", "regular care" and "built for cutting, not abuse" wording.
-- Never promise shipping is simple or legal everywhere. If the source email has a local-regulations line, keep it.
 - Do not invent facts, numbers, prices, dates, reviews or customer stories. Examples must be things any camper or hiker would plausibly do with a utility knife.
 - Use "brother" at most once in an email, and only if it feels natural. Never "bro". No hype, no slang, no all caps, at most one exclamation mark across the whole email.
 - Never include real people. Do not use any name or email from the CSV in the files.
