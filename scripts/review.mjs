@@ -17,7 +17,26 @@ if (!folder) {
 
 const schemaPath = resolve(root, "review/findings.schema.json");
 const schemaText = JSON.stringify(JSON.parse(readFileSync(schemaPath, "utf8")));
-const prompt = `Review every email in ${folder} against brand/voice.md and .claude/rules/emails.md. Report only real problems.`;
+const norm = (p) => p.replace(/\\/g, "/").replace(/\/+$/, "");
+const findingsPath = resolve(root, "review/findings.json");
+
+// If the last review was for the same folder, pass its findings to Claude.
+let earlier = null;
+try {
+  const prev = JSON.parse(readFileSync(findingsPath, "utf8"));
+  if (prev.folder && norm(prev.folder) === norm(folder) && Array.isArray(prev.findings)) {
+    earlier = prev.findings;
+  }
+} catch {
+  // No earlier findings file, or it could not be read. Do a fresh review.
+}
+
+let prompt = `Review every email in ${folder} against brand/voice.md and .claude/rules/emails.md. Report only real problems.`;
+if (earlier) {
+  prompt +=
+    `\n\nEarlier findings:\n${JSON.stringify(earlier, null, 2)}\n\n` +
+    "These are findings from the last review. Report only problems that are new or still not fixed. Don't repeat ones that have been fixed.";
+}
 
 const args = [
   "-p", prompt,
@@ -55,7 +74,10 @@ if (!out || !Array.isArray(out.findings)) {
 }
 
 mkdirSync(resolve(root, "review"), { recursive: true });
-writeFileSync(resolve(root, "review/findings.json"), JSON.stringify(out, null, 2) + "\n");
+writeFileSync(
+  findingsPath,
+  JSON.stringify({ folder: norm(folder), findings: out.findings }, null, 2) + "\n"
+);
 
 const count = (s) => out.findings.filter((f) => f.severity === s).length;
 const high = count("high");
