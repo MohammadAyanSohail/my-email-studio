@@ -1,68 +1,19 @@
 {
-  "folder": "campaigns/test-bad",
+  "folder": "campaigns/chaku-v7-launch",
   "findings": [
     {
-      "file": "campaigns/test-bad/emails/01-bad.md",
-      "line": 8,
-      "severity": "high",
-      "problem": "Calls the knife 'the best self-defense knife for fighting off anything'. Self-defense and fighting talk is banned; Chaku sells utility knives only.",
-      "fix": "Remove the sentence. Call it a dependable utility knife for camp and trail."
-    },
-    {
-      "file": "campaigns/test-bad/emails/01-bad.md",
-      "line": 8,
-      "severity": "high",
-      "problem": "Says 'It never dulls, it never rusts and it can't break'. All three are banned claims.",
-      "fix": "Say MagnaCut holds an edge and needs regular care, is rust and corrosion resistant, and is built for cutting, not abuse like prying or hammering."
-    },
-    {
-      "file": "campaigns/test-bad/emails/01-bad.md",
-      "line": 1,
-      "severity": "medium",
-      "problem": "Subject is 69 characters; the limit is 50. It also adds false urgency ('this week only, don't miss out') that we cannot back up.",
-      "fix": "Shorten to 50 characters or fewer with no urgency, e.g. 'The Chaku V7 is here'."
-    },
-    {
-      "file": "campaigns/test-bad/emails/01-bad.md",
-      "line": 2,
-      "severity": "medium",
-      "problem": "Preview uses 'this is your last chance to buy one', an unprovable urgency claim. Length (72) is within the 90 limit.",
-      "fix": "Use a calm, true line, e.g. 'MagnaCut steel that holds an edge on the trail.'"
-    },
-    {
-      "file": "campaigns/test-bad/emails/01-bad.md",
-      "line": 4,
-      "severity": "medium",
-      "problem": "Greeting is 'Hey bro,'. It has no {{first_name}}, and 'bro' is a banned word.",
-      "fix": "Use 'Hi {{first_name}},'."
-    },
-    {
-      "file": "campaigns/test-bad/emails/01-bad.md",
-      "line": 6,
-      "severity": "medium",
-      "problem": "Over-excited language: all-caps 'LAST CHANCE', three exclamation marks, slang ('so fire', 'totally insane'), and false urgency.",
-      "fix": "Replace with calm, plain copy about the Chaku V7. No caps, at most one exclamation mark, no slang, no urgency."
-    },
-    {
-      "file": "campaigns/test-bad/emails/01-bad.md",
+      "file": "campaigns/chaku-v7-launch/emails/01-v7-is-here.md",
       "line": 12,
       "severity": "medium",
-      "problem": "A second link ('Shop everything' to /sale) breaks the rule of exactly one main link, and it uses a different web address.",
-      "fix": "Delete the line. Keep only the [Buy now](https://chakuknives.example.com/chaku-v7) link."
+      "problem": "Emails 1, 3, 4 and 7 (main and all three group versions) say the V7 page has 'the details' or 'the details you need'. plan.md says the V7 page is still a placeholder with no real specs, price or shipping facts. This claim is not true yet, and the brand guide says never to claim anything we cannot prove.",
+      "fix": "Fill the V7 page with real specs, price and shipping facts before sending. Or reword the line so it does not promise details the page does not have."
     },
     {
-      "file": "campaigns/test-bad/emails/01-bad.md",
-      "line": 14,
-      "severity": "medium",
-      "problem": "Sign-off is 'Cheers, The Chaku team'. It must be 'the Chaku Smiths'.",
-      "fix": "End the body with 'the Chaku Smiths'."
-    },
-    {
-      "file": "campaigns/test-bad/emails/01-bad.md",
-      "line": 15,
-      "severity": "medium",
-      "problem": "The required two-line plain-text footer is missing after the sign-off.",
-      "fix": "Add: 'You're getting this because you joined the Chaku Knives waitlist.' then 'Chaku Knives, {{company_address}} · Unsubscribe: {{unsubscribe_url}}'."
+      "file": "campaigns/chaku-v7-launch/emails/04-your-questions-answered.md",
+      "line": 27,
+      "severity": "low",
+      "problem": "Emails 4 and 7 (main and group versions) say 'Our support team will read it'. Nothing in the studio files shows there is a support team. This is a claim we cannot prove.",
+      "fix": "If replies go to one person, change it to 'we will read it'. Otherwise confirm there is a support team."
     }
   ]
 }
