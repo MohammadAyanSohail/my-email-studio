@@ -1,4 +1,4 @@
-# Chaku V6 customer reviews (made-up practice data), part 4 of 6
+# Ranger V6 customer reviews (made-up practice data), part 4 of 6
 
 Reviews 61 to 80. All reviewers and reviews are invented for practice.
 
@@ -10,7 +10,7 @@ Perfect for a weekend in the pines. Splits kindling into feather sticks cleanly 
 ## Review 62
 **Rating:** ★★★☆☆ (3/5)
 **Reviewer:** Mina H.
-The knife is fine, but the box had no padding and the sheath came scuffed. Shipping was 15 days. I would still try another Chaku, but they need to fix the packing.
+The knife is fine, but the box had no padding and the sheath came scuffed. Shipping was 15 days. I would still try another Ranger, but they need to fix the packing.
 
 ## Review 63
 **Rating:** ★★★★☆ (4/5)

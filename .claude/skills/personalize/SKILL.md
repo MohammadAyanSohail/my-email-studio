@@ -72,7 +72,7 @@ Save each version to:
 
 `<campaign folder>/groups/<group>/emails/<same file name as the source>`
 
-For example, `campaigns/chaku-v7-launch/groups/daily-hikers/emails/01-v7-is-here.md`.
+For example, `campaigns/ranger-v7-launch/groups/daily-hikers/emails/01-v7-is-here.md`.
 
 - Use the exact same file name as the source email.
 - The Write tool creates folders as needed.

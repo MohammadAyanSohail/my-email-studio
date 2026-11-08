@@ -3,10 +3,10 @@ Preview: Care, shipping and what the V7 is for. Plain answers.
 
 {{first_name}},
 
-New to good knives? Some questions come up again and again. Here are plain answers.
+Buying for someone else? Some questions come up again and again. Here are plain answers.
 
 **What is the V7 for?**
-Cutting work at camp, like slicing food or cutting cord. It is a utility knife, nothing more.
+Cutting work at camp, like the food and cord jobs a hiker you know does on a trip. It is a utility knife, nothing more.
 
 **What is the blade made of?**
 CPM MagnaCut steel. It holds an edge and is rust and corrosion resistant.
@@ -28,9 +28,9 @@ Reply to this email. Our support team will read it, and your question may help t
 
 The full details are on the V7 page.
 
-[Go to the Chaku V7 page](https://chakuknives.example.com/chaku-v7)
+[Go to the Ranger V7 page](https://rangersedgefsd.example.com/ranger-v7)
 
-the Chaku Smiths
+the Ranger’s Edge crew
 
-You're getting this because you joined the Chaku Knives waitlist.
-Chaku Knives, {{company_address}} · Unsubscribe: {{unsubscribe_url}}
+You're getting this because you joined the Ranger’s Edge Faisalabad waitlist.
+Ranger’s Edge Faisalabad, {{company_address}} · Unsubscribe: {{unsubscribe_url}}

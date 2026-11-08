@@ -13,9 +13,9 @@ Steel names can feel like a maze when you are new to knives. We would rather tel
 
 That is the short version. If it sounds like the kind of knife you want in your pack, the V7 page has the rest.
 
-[Read about the Chaku V7](https://chakuknives.example.com/chaku-v7)
+[Read about the Ranger V7](https://rangersedgefsd.example.com/ranger-v7)
 
-the Chaku Smiths
+the Ranger’s Edge crew
 
-You're getting this because you joined the Chaku Knives waitlist.
-Chaku Knives, {{company_address}} · Unsubscribe: {{unsubscribe_url}}
+You're getting this because you joined the Ranger’s Edge Faisalabad waitlist.
+Ranger’s Edge Faisalabad, {{company_address}} · Unsubscribe: {{unsubscribe_url}}

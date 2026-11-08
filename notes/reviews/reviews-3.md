@@ -1,4 +1,4 @@
-# Chaku V6 customer reviews (made-up practice data), part 3 of 6
+# Ranger V6 customer reviews (made-up practice data), part 3 of 6
 
 Reviews 41 to 60. All reviewers and reviews are invented for practice.
 

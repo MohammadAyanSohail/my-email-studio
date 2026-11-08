@@ -12,9 +12,9 @@ Here is what we would check if we were in your boots, brother:
 
 If those are all a yes, the V7 page has the details you need. If you still have a question, just reply. Our support team will read it.
 
-[Back to the Chaku V7 page](https://chakuknives.example.com/chaku-v7)
+[Back to the Ranger V7 page](https://rangersedgefsd.example.com/ranger-v7)
 
-the Chaku Smiths
+the Ranger’s Edge crew
 
-You're getting this because you joined the Chaku Knives waitlist.
-Chaku Knives, {{company_address}} · Unsubscribe: {{unsubscribe_url}}
+You're getting this because you joined the Ranger’s Edge Faisalabad waitlist.
+Ranger’s Edge Faisalabad, {{company_address}} · Unsubscribe: {{unsubscribe_url}}

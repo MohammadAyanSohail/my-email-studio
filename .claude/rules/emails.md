@@ -18,13 +18,13 @@ These rules apply to every email file in any campaign. Each email file must foll
 
 ## Link
 
-- Use exactly one main link. Write it like this: `[Button text](https://chakuknives.example.com/chaku-v7)`
+- Use exactly one main link. Write it like this: `[Button text](https://rangersedgefsd.example.com/ranger-v7)`
 - Change the button text to fit the email. Keep the web address the same.
 
 ## Ending
 
-- End the email body with the sign-off from `brand/voice.md`: the Chaku Smiths
+- End the email body with the sign-off from `brand/voice.md`: the Ranger’s Edge crew
 - After the sign-off, add this two-line footer. Write it as plain text. Do not put it inside a code block.
 
-You're getting this because you joined the Chaku Knives waitlist.
-Chaku Knives, {{company_address}} · Unsubscribe: {{unsubscribe_url}}
+You're getting this because you joined the Ranger’s Edge Faisalabad waitlist.
+Ranger’s Edge Faisalabad, {{company_address}} · Unsubscribe: {{unsubscribe_url}}

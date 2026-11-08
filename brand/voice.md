@@ -1,6 +1,6 @@
-# Chaku Knives: Brand Voice Guide
+# Ranger’s Edge Faisalabad: Brand Voice Guide
 
-Chaku Knives is a sample brand. It sells hunting and utility knives from Faisalabad, Pakistan, to outdoor enthusiasts, campers and hikers. The blades use CPM MagnaCut steel.
+Ranger’s Edge Faisalabad is a sample brand. It sells hunting and utility knives from Faisalabad, Pakistan, to outdoor enthusiasts, campers and hikers. The blades use CPM MagnaCut steel.
 
 ## Our voice in three words
 
@@ -26,7 +26,7 @@ Our readers are serious campers and hikers. Keep the tone professional, not casu
 
 ## Words we avoid
 
-- **Anything about self-defense.** Chaku Knives sells utility knives only. Never write self-defense, protection, fighting, combat, tactical or weapon-style hype. Do not let a knife be mistaken for a self-defense knife.
+- **Anything about self-defense.** Ranger’s Edge Faisalabad sells utility knives only. Never write self-defense, protection, fighting, combat, tactical or weapon-style hype. Do not let a knife be mistaken for a self-defense knife.
 - **"Bro".** It sounds like gamers. "Brother" is fine, used sparingly.
 - **Slang and casual hype.** Nothing like "this is so fire!" or "cool knives".
 - Over-excited language: lots of exclamation marks, all capitals, "insane", "epic".
@@ -42,4 +42,4 @@ Our readers are serious campers and hikers. Keep the tone professional, not casu
 
 End every email with:
 
-the Chaku Smiths
+the Ranger’s Edge crew

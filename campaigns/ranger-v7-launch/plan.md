@@ -1,8 +1,8 @@
-# Campaign Plan: The Chaku V7 Waitlist Launch
+# Campaign Plan: The Ranger V7 Waitlist Launch
 
 **Status:** Draft plan. Emails 1, 3, 4 and 7 are drafted in the `emails` folder (file numbers match this plan). Nothing has been sent.
 **Dates:** Monday 7 December 2026 to Sunday 3 January 2027
-**Goal:** 300 waitlist members buy the Chaku V7 by 3 January 2027
+**Goal:** 300 waitlist members buy the Ranger V7 by 3 January 2027
 **Channel:** Email only. No paid ads.
 
 ## Confirm before we write any emails
@@ -21,8 +21,8 @@ The studio files have no details on the V7 itself. This plan does not guess at t
 
 ## 1. Campaign overview
 
-- **Name:** Out There: The Chaku V7 Launch
-- **Summary:** A four-week email series that gives our 2,000 waitlist members first access to buy the Chaku V7.
+- **Name:** Out There: The Ranger V7 Launch
+- **Summary:** A four-week email series that gives our 2,000 waitlist members first access to buy the Ranger V7.
 - **Main goal:** 300 V7 orders from waitlist members by 3 January 2027. That is 15% of the list.
 - **Second goals:**
   - Learn which waitlist group buys best.
@@ -62,7 +62,7 @@ The group details below are working assumptions. Check them against what you kno
 
 ## 3. Key messages
 
-**Core message:** The Chaku V7 is a dependable MagnaCut knife, built to last for real nights out there.
+**Core message:** The Ranger V7 is a dependable MagnaCut knife, built to last for real nights out there.
 
 **Supporting messages**
 
@@ -74,7 +74,7 @@ The group details below are working assumptions. Check them against what you kno
 | Tested by real campers and hikers. | Named quotes or test notes | Not yet. Cut this if we can't prove it. |
 | Waitlist members get first access. | The real waitlist offer | No. There is no offer. Do not use this message. |
 
-**Message order in each email:** why this matters out there, what the V7 is, why Chaku, then one clear next step.
+**Message order in each email:** why this matters out there, what the V7 is, why Ranger, then one clear next step.
 
 **How the tone shifts by group**
 
@@ -86,7 +86,7 @@ The group details below are working assumptions. Check them against what you kno
 
 - Sound like a fellow camper: plain, calm and warm.
 - Say "brother" no more than once in an email, and only where it feels natural.
-- Sign off with: the Chaku Smiths
+- Sign off with: the Ranger’s Edge crew
 - Keep the V7 a utility knife. No self-defense, protection, fighting, combat, tactical or weapon-style language.
 - Never say a blade never dulls, can't break, or is rust-proof.
 - No hype, all capitals or strings of exclamation marks.
